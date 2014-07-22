@@ -172,8 +172,8 @@ Sponsors: [Hacedores.com](https://twitter.com/HacedoresCom), [http://www.kmmx.mx
 Organizers: [@makers_gdl](https://twitter.com/makers_gdl), [@techWomenC](https://twitter.com/techWomenC), [@hackerGarage](https://twitter.com/hackerGarage) <br>
 Location: Vidrio #2184 Entre Simón Bolívar y Gral San Martin Col. Americana. CP. 44160 Guadalajara, Jalisco. México<br>
 Hours: TBD<br>
-Signup: [Here](http://meetu.ps/2rr6w8)<br>
-Sponsors: [Makers GDL](https://twitter.com/HacedoresCom) we need sponsors! Email techwomenc [at] gmail.com
+Signup: [Here](http://bit.ly/nodeBotsDay)<br>
+Sponsors: [Makers GDL](https://twitter.com/Makers_gdl) [HackerGarage](https://twitter.com/HackerGarage) 
 
 <!-- PLEASE ADD YOUR LOCAL INFORMATION -->
 
